@@ -1,2 +1,2 @@
 # Intro-to-Compu
-Ejercicios de Introducción a la Computación
+Exercises on introduction to computation. (In Spanish mostly)
